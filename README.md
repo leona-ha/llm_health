@@ -1,4 +1,4 @@
-# Health-seeking with Large Language Models: Prevalence, Predictors, and Adverse Effects
+# Prevalence, Correlates, and Adverse Effects of Health-Related Large Language Model Use: A Dual-Cohort Study 
 
 This repository contains code and materials for the study:
 
