@@ -2,7 +2,7 @@
 
 This repository contains code and materials for the study:
 
-**Health-seeking with Large Language Models: Prevalence, Predictors, and Adverse Effects**
+**Prevalence, Correlates, and Adverse Effects of Health-Related Large Language Model Use: A Dual-Cohort Study**
 
 Julian Herpertz<sup>1,*</sup>, Leona Hammelrath<sup>2,*</sup>, John Torous<sup>3</sup>, Gabriel Bonnin<sup>4</sup>, Phileas Heim<sup>2</sup>, Christine Knaevelsrud<sup>2</sup>, DigiHero Coauthors, Rafael Mikolajczyk<sup>5,†</sup>, André Kerber<sup>2,†</sup>, Nils Opel<sup>1,†</sup>
 
